@@ -1,5 +1,5 @@
 
-Project Title         : Analyzing Market Basket Dynamics to Enhance Retail Revenue and Customer Experience 
+# Project Title         : Analyzing Market Basket Dynamics to Enhance Retail Revenue and Customer Experience 
 
 1. Problem
 In the business sector, basket analysis mirrors a detective uncovering frequent correlations between items. Employing data mining techniques such as association rules, ECLAT and DHP algorithms resembles discovering hidden patterns within an extensive array of shopping receipts. These strategies empower stores to strategize item placement on shelves and craft enticing deals that delight customers by offering items they enjoy together. Additional data mining tools, such as clustering similar products or predicting consumer behaviors, aid stores in comprehending their clientele better and refining their sales strategies. Within our project, our goal is to delve into sales data, identifying common product pairings to assist stores in amplifying sales of popular items. Given our 5699 unique products, we anticipate uncovering intriguing associations within our dataset.
