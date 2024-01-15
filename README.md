@@ -1,14 +1,14 @@
 
-# Project Title         : Analyzing Market Basket Dynamics to Enhance Retail Revenue and Customer Experience 
+# Project Title         : Analyzing Market Basket Dynamics to Enhance Retail Revenue and Customer Experience   
 
 
-AIN429 Data Mining Lab Project
-Project Title : Analyzing Market Basket Dynamics to Enhance Retail Revenue and Customer Experience
-Student Number: 21993049 / 2200765024
-Student Name/Surname : Metehan Sarikaya / Velican Özkaya
-**Instructor:** Suat ÖZDEMİR
-TA: Ahmet ALKILINÇ
-Due Date: 15.01.2024
+AIN429 Data Mining Lab Project  
+Project Title : Analyzing Market Basket Dynamics to Enhance Retail Revenue and Customer Experience  
+Student Number: 21993049 / 2200765024  
+Student Name/Surname : Metehan Sarikaya / Velican Özkaya  
+**Instructor:** Suat ÖZDEMİR  
+TA: Ahmet ALKILINÇ  
+Due Date: 15.01.2024  
 
 
 --------------------------------------------------------------------------------------------------
