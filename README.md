@@ -9,8 +9,6 @@ Student Name/Surname : Metehan Sarikaya / Velican Özkaya
 **Instructor:** Suat ÖZDEMİR  
 TA: Ahmet ALKILINÇ  
 Due Date: 15.01.2024  
-
-GitHub Link: https://github.com/metehan41/DataMiningProject.git
 --------------------------------------------------------------------------------------------------
 
 1. Problem
